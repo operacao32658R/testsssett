@@ -3359,7 +3359,7 @@
                             "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-12 px-8 w-full max-w-md mx-auto bg-[#1451B4] hover:bg-[#0c326f] text-white font-medium transition-all duration-200 text-lg",
                           onClick: () => {
                             window.open(
-                              "https://checkout.vendeagora.com/api/public/shopify?product=760359988691&store=7603",
+                              "https://checkout.google.com",
                               "_blank"
                             );
                           },
